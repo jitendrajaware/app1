@@ -1,0 +1,4 @@
+Bundle-Name: app1
+Bundle-SymbolicName: com.jittech.app1
+Bundle-Version: 1.0.0
+Export-Package: com.jittech.app1.constants
